@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 # You MUST replace this with your actual Google Maps API key
-API_KEY = 'AIzaSyA67IIWQLEwSJmp_07JRwYbAgqBWyFmjvs'
+API_KEY = '****************'
 
 def get_business_listings(api_key, location, keyword):
     """
